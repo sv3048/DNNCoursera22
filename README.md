@@ -1,4 +1,4 @@
-# DNNCoursera22
+# NNs&DeepLearning
 
 Course 1 of Deep Learning Specialization from DeepLearning.AI
 
