@@ -28,4 +28,6 @@ Python : Revise from Shraddha's video
 
 ##################################################################
 
+What else -> practise, Practise and Practise !
+
 
