@@ -23,5 +23,9 @@ Exercises - for week 2 half  and weeek 3 - are Okay to go on ( But you must be d
 #################################################################
 
 
+After Coursera : I can start ML Course [ But that we will learn slowly]
+Python : Revise from Shraddha's video 
+
+##################################################################
 
 
